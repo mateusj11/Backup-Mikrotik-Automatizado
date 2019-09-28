@@ -1,0 +1,1 @@
+#Neste arquivo é adicionado os endereços dos dispositivos que serão feito backup, sendo 1 router por linha
