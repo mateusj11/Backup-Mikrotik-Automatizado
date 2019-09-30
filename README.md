@@ -5,9 +5,9 @@
 #Paz
 
 ##Inicio##
-	O código tem como objeitvo inicial gerar backups de Roteadores Mikrotik (http://mikrotik.com) de forma automaziada,
+	O código tem como objeitvo gerar backups de Roteadores Mikrotik (http://mikrotik.com) de forma automaziada,
 no qual o administrador de redes tenha apenas que adicionar o usuário 'bkp' em uma nova rb, e adicionar seu ip no arquivo
-de endereços que o script usa como base.
+de endereços que o script usa como base para que o código possa efetuar o backup sempre que a rotina for executada.
 
 ##Ambiente##
 	Para a homologação desse script ele foi testado ultilizando os seguintes recursos:
@@ -20,7 +20,7 @@ de endereços que o script usa como base.
 *Routerboar Mikrotik*
 • RouterBOARD 941-2nD
 • Firmware 3.29
-• RouterOS v6.43.4
+• RouterOS v6.45.6
 • Arquitetura smips
 
 
@@ -100,7 +100,7 @@ dessa vez você deve ter acesso direto ao terminal da rb, sem que seja exigido a
 	
 	
 ##5ª Passo##
-
+	
 
 	
 	
